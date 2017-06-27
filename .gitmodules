@@ -1,6 +1,0 @@
-[submodule "src/github.com/damageless/go-webrtc"]
-	path = src/github.com/damageless/go-webrtc
-[submodule "src/github.com/karalabe/xgo"]
-	path = src/github.com/karalabe/xgo
-[submodule "src/github.com/xthexder/go-jack"]
-	path = src/github.com/xthexder/go-jack
